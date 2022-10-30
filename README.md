@@ -1,2 +1,2 @@
-# wp-svelte-sample
-A sample plugin to illustrate how to setup Svelte for it WordPress
+# WP Svelte Sample
+A sample plugin to illustrate how to set up Svelte for WordPress.
